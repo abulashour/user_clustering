@@ -7,7 +7,7 @@ The dataset shown in the script provides the spending behavior of users in a mob
   2. Frequency: How often has this user made a purchase
   3. Monetary:  The total monetary value of all this users purchases
 
-** Given that the data for this project is not public, it will not be available in this github due to privacy reasons
+** Given that the project was done for a private company, the data will not be available in this github due to privacy reasons
 
 # Objective
 The objective given is to create a model that would cluster users based on their spending behavior. This in order would help in better targeting users for personalized promotions to increase user lifetime value
